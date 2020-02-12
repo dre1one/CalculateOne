@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculate One</string>
+    <string name="nazv">Расчет объема цилиндра</string>
+    <string name="rad_or_diam">Радиус/Диаметр</string>
+    <string name="vys_or_dli">Высота/Длина</string>
+    <string name="rez">Результат</string>
+    <string name="po_rad">По радиусу</string>
+    <string name="po_dia">По диаметру</string>
+</resources>
